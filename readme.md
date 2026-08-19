@@ -21,9 +21,7 @@
 
 ## Arrays
 
-- [13. Introduction to arrays](notes/13_arrays.md)
-
-...
+- [Introduction to arrays](notes/13_arrays.md)
 
 
 ## Disclaimer
