@@ -1,5 +1,3 @@
-## Lecture summaries
-
 ### Introduction
 
 1. Test
