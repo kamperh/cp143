@@ -1,23 +1,23 @@
 ## Introduction
 
-1. [Computers, programs and C](notes/01_intro.pdf)
-2. [Printing, variables and user input](notes/02_variables.pdf)
+- [Computers, programs and C](notes/01_intro.pdf)
+- [Printing, variables and user input](notes/02_variables.pdf)
 
 ## Structured programming: decisions, loops
 
-3. [Breaking the flow: the `if` statement](notes/03_if.pdf)
-4. [Our first loops: the `while` loop](notes/04_while.pdf)
-5. [Putting it together: nested control structures](notes/05_loop_decisions.pdf)
-6. [More repetition: the `for` loop](notes/06_for.pdf)
-7. [Logic and the `do...while` loop](notes/07_do_logic.pdf)
-8. [Completing the control structures](notes/08_control_conclude.pdf)
+- [Breaking the flow: the `if` statement](notes/03_if.pdf)
+- [Our first loops: the `while` loop](notes/04_while.pdf)
+- [Putting it together: nested control structures](notes/05_loop_decisions.pdf)
+- [More repetition: the `for` loop](notes/06_for.pdf)
+- [Logic and the `do...while` loop](notes/07_do_logic.pdf)
+- [Completing the control structures](notes/08_control_conclude.pdf)
 
 ## Functions
 
-9. [Functions](notes/09_functions.pdf)
-10. [Building your own library (and generating random numbers)](notes/10_functions_header_rnd.pdf)
-11. [Enumeration constants (and a longer example)](notes/11_enum_rock_paper_scissors.pdf)
-12. [Variable scope and recursion](notes/12_recursion.pdf)
+- [Functions](notes/09_functions.pdf)
+- [Building your own library (and generating random numbers)](notes/10_functions_header_rnd.pdf)
+- [Enumeration constants (and a longer example)](notes/11_enum_rock_paper_scissors.pdf)
+- [Variable scope and recursion](notes/12_recursion.pdf)
 
 ## Arrays
 
