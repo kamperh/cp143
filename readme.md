@@ -14,12 +14,10 @@
 
 ## Functions
 
-{: start="9"}
-
-9. [Functions](notes/09_functions.pdf)
-10. [Building your own library (and generating random numbers)](notes/10_functions_header_rnd.pdf)
-11. [Enumeration constants (and a longer example)](notes/11_enum_rock_paper_scissors.pdf)
-12. [Variable scope and recursion](notes/12_recursion.pdf)
+- [Functions](notes/09_functions.pdf)
+- [Building your own library (and generating random numbers)](notes/10_functions_header_rnd.pdf)
+- [Enumeration constants (and a longer example)](notes/11_enum_rock_paper_scissors.pdf)
+- [Variable scope and recursion](notes/12_recursion.pdf)
 
 ## Arrays
 
