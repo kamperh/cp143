@@ -31,5 +31,5 @@ The summaries above were automatically created from transcripts of my live lectu
 
 ## License
 
-Herman Kamper, 2025-2026  
+Herman Kamper, 2026  
 This work is released under a Creative Commons Attribution-ShareAlike license ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
