@@ -3,7 +3,7 @@
 - [Computers, programs and C](notes/01_intro.pdf)
 - [Printing, variables and user input](notes/02_variables.pdf)
 
-## Structured programming: decisions, loops
+## Control structures: decisions and loops
 
 - [Breaking the flow: the `if` statement](notes/03_if.pdf)
 - [Our first loops: the `while` loop](notes/04_while.pdf)
