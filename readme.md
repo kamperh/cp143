@@ -1,18 +1,25 @@
-## Introduction
+## Lecture summaries
+
+### Introduction
 
 1. Test
 2. Test2
 
-## Functions
+### Functions
 
 3. Test
 4. Test2
 
 
-## Arrays
+### Arrays
 
 
-## Pointers
+### Pointers
+
+
+
+## Disclaimer
+
 
 
 ## License
