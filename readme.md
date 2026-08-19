@@ -1,9 +1,9 @@
-## Introduction
+### Introduction
 
 - [Computers, programs and C](notes/01_intro.pdf)
 - [Printing, variables and user input](notes/02_variables.pdf)
 
-## Structured programming: decisions, loops
+### Structured programming: decisions, loops
 
 - [Breaking the flow: the `if` statement](notes/03_if.pdf)
 - [Our first loops: the `while` loop](notes/04_while.pdf)
@@ -12,14 +12,14 @@
 - [Logic and the `do...while` loop](notes/07_do_logic.pdf)
 - [Completing the control structures](notes/08_control_conclude.pdf)
 
-## Functions
+### Functions
 
 - [Functions](notes/09_functions.pdf)
 - [Building your own library (and generating random numbers)](notes/10_functions_header_rnd.pdf)
 - [Enumeration constants (and a longer example)](notes/11_enum_rock_paper_scissors.pdf)
 - [Variable scope and recursion](notes/12_recursion.pdf)
 
-## Arrays
+### Arrays
 
 ...
 
