@@ -26,7 +26,7 @@
 
 ## Disclaimer
 
-The summaries above were automatically created from transcripts of my live lectures. I used Whisper for speech recognition and Claude to automatically create the summaries. These were then lightly edited, but there are almost certainly mistakes. Please [email me](mailto:kamperh@gmail.com) if you spot any glaring issues.
+The summaries above were automatically created from transcripts of my in-person lectures. I used Whisper for speech recognition and Claude to automatically create the summaries. These were then lightly edited. But there are almost certainly mistakes. Please [email me](mailto:kamperh@gmail.com) if you spot any glaring issues.
 
 
 ## License
