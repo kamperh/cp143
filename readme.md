@@ -21,7 +21,8 @@
 
 ## Arrays
 
-- [Introduction to arrays](notes/13_arrays.md)
+- [Introduction to arrays](notes/13_arrays.pdf)
+- [Strings, arrays and functions, searching arrays](notes/14_array_strings_func.pdf)
 
 
 ## Disclaimer
