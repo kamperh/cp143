@@ -26,11 +26,13 @@
 - [Binary search and sorting arrays](notes/15_search_sort.pdf)
 - [Two-dimensional arrays](notes/16_array_2d.pdf)
 
+## Pointers
+
+- [Introduction to pointers](notes/17_pointers_intro.pdf)
 
 ## Disclaimer
 
 The summaries above were automatically created from transcripts of my in-person lectures. I used Whisper for speech recognition and Claude to automatically create the summaries. These were then lightly edited. But there are almost certainly mistakes. Please [email me](mailto:kamperh@gmail.com) if you spot any glaring issues.
-
 
 ## License
 
