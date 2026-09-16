@@ -29,6 +29,7 @@
 ## Pointers
 
 - [Introduction to pointers](notes/17_pointers_intro.pdf)
+- [Pointers and functions: call-by-reference](notes/18_callbyref.pdf)
 
 ## Disclaimer
 
