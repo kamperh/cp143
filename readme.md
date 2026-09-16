@@ -31,7 +31,7 @@
 - [Introduction to pointers](notes/17_pointers_intro.pdf)
 - [Pointers and functions: call-by-reference](notes/18_callbyref.pdf)
 
-## Disclaimer
+## AI disclosure and disclaimer
 
 The summaries above were automatically created from transcripts of my in-person lectures. I used Whisper for speech recognition and Claude to automatically create the summaries. These were then lightly edited. But there are almost certainly mistakes. Please [email me](mailto:kamperh@gmail.com) if you spot any glaring issues.
 
