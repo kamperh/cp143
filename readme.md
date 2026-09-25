@@ -32,7 +32,7 @@
 - [Pointers and functions: call-by-reference](notes/18_callbyref.pdf)
 - [More pointers: least privilege and sizeof](notes/19_constptr_sizeof.pdf)
 - [Arrays and pointers, and reserving memory on the fly](notes/20_pointers_arrays.pdf)
-- [Pointer recap, and arrays of pointers](notes/21_recap_ptrarray.pdf) [[video](https://youtu.be/i0yKHvysagg&list=PLeFTfi6P7GjE) (26 min)]
+- [Pointer recap, and arrays of pointers](notes/21_recap_ptrarray.pdf) [[video](https://youtu.be/i0yKHvysagg&list=PLeFTfi6P7GjE)]
 
 ## AI disclosure and disclaimer
 
