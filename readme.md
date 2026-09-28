@@ -34,6 +34,10 @@
 - [Arrays and pointers, and reserving memory on the fly](notes/20_pointers_arrays.pdf)
 - [Pointer recap, and arrays of pointers](notes/21_recap_ptrarray.pdf) [[video](https://youtu.be/i0yKHvysagg&list=PLeFTfi6P7GjE)]
 
+## Structures
+
+- [Structures: defining your own types](notes/22_struct_intro.pdf)
+
 ## AI disclosure and disclaimer
 
 The summaries above were automatically created from transcripts of my in-person lectures. I used Whisper for speech recognition and Claude to automatically create the summaries. These were then lightly edited. But there are almost certainly mistakes. Please [email me](mailto:kamperh@gmail.com) if you spot any glaring issues.
