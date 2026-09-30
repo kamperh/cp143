@@ -37,6 +37,7 @@
 ## Structures
 
 - [Structures: defining your own types](notes/22_struct_intro.pdf)
+- [Arrays of structures](notes/23_struct_arrays.pdf)
 
 ## AI disclosure and disclaimer
 
