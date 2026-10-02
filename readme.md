@@ -39,6 +39,10 @@
 - [Structures: defining your own types](notes/22_struct_intro.pdf)
 - [Arrays of structures](notes/23_struct_arrays.pdf)
 
+## File processing
+
+- [Reading and writing text files](notes/24_files_text.pdf)
+
 ## AI disclosure and disclaimer
 
 The summaries above were automatically created from transcripts of my in-person lectures. I used Whisper for speech recognition and Claude to automatically create the summaries. These were then lightly edited. But there are almost certainly mistakes. Please [email me](mailto:kamperh@gmail.com) if you spot any glaring issues.
