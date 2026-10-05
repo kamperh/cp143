@@ -42,6 +42,7 @@
 ## File processing
 
 - [Reading and writing text files](notes/24_files_text.pdf)
+- [Reading and writing binary files](notes/25_files_binary.pdf)
 
 ## AI disclosure and disclaimer
 
