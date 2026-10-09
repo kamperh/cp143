@@ -45,6 +45,10 @@
 - [Reading and writing binary files](notes/25_files_binary.pdf)
 - [Reading and writing binary files out of order](notes/26_fseek.pdf)
 
+## Dynamic data structures
+
+- [Linked lists](notes/27_linkedlists.pdf)
+
 ## AI disclosure and disclaimer
 
 The summaries above were automatically created from transcripts of my in-person lectures. I used Whisper for speech recognition and Claude to automatically create the summaries. These were then lightly edited. But there are almost certainly mistakes. Please [email me](mailto:kamperh@gmail.com) if you spot any glaring issues.
