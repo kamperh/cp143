@@ -48,6 +48,7 @@
 ## Dynamic data structures
 
 - [Linked lists](notes/27_linkedlists.pdf)
+- [Stacks and queues](notes/28_stacks_queues.pdf)
 
 ## AI disclosure and disclaimer
 
