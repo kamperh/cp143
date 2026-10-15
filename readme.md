@@ -49,6 +49,7 @@
 
 - [Linked lists](notes/27_linkedlists.pdf)
 - [Stacks and queues](notes/28_stacks_queues.pdf)
+- [Trees](notes/29_trees.pdf)
 
 ## AI disclosure and disclaimer
 
