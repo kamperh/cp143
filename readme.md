@@ -32,7 +32,7 @@
 - [Pointers and functions: call-by-reference](notes/18_callbyref.pdf) [[slides](slides/18_callbyref_lect.pdf)]
 - [More pointers: least privilege and `sizeof`](notes/19_constptr_sizeof.pdf) [[slides](slides/19_constptr_sizeof_lect.pdf)]
 - [Arrays and pointers, and reserving memory on the fly](notes/20_pointers_arrays.pdf) [[slides](slides/20_pointers_arrays_lect.pdf)]
-- [Pointer recap, and arrays of pointers](notes/21_recap_ptrarray.pdf) [[slides](slides/21_recap_ptrarray_lect.pdf)] [[video](https://youtu.be/i0yKHvysagg&list=PLeFTfi6P7GjE)]
+- [Pointer recap, and arrays of pointers](notes/21_recap_ptrarray.pdf) [[slides](slides/21_recap_ptrarray_lect.pdf), [video](https://youtu.be/i0yKHvysagg&list=PLeFTfi6P7GjE)]
 
 ## Structures
 
