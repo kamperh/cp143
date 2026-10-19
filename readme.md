@@ -50,6 +50,7 @@
 - [Linked lists](notes/27_linkedlists.pdf) [[slides](slides/27_linkedlists_lect.pdf)]
 - [Stacks and queues](notes/28_stacks_queues.pdf) [[slides](slides/28_stacks_queues_lect.pdf)]
 - [Trees](notes/29_trees.pdf) [[slides](slides/29_trees_lect.pdf)]
+- [Double pointers in dynamic data structures](notes/30_double_pointers.pdf) [[slides](slides/30_double_pointers_lect.pdf)]
 
 ## AI disclosure and disclaimer
 
